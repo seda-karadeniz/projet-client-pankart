@@ -18,14 +18,14 @@ Un concours européen remporté en décembre 2020
 • Site web\
 o	[Lampli](https://lampli.be/artist-profile/pankart/)\
 o	[Gigstarter](https://www.gigstarter.fr/artists/pankart)\
-o	[Youtube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ/playlists)\
+o	[Youtube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ/playlists)
 
 •	Réseaux sociaux\
 o	[Facebook](https://www.facebook.com/PanKart/)\
-o	[Instagram](https://www.instagram.com/pankartmusicband/)\
+o	[Instagram](https://www.instagram.com/pankartmusicband/)
 
 •	Apps\
-o	[Bandsintown](https://manager.bandsintown.com/login)\
+o	[Bandsintown](https://manager.bandsintown.com/login)
 
 •	Streaming\
 o	[Spotify](https://open.spotify.com/album/15EDw1ExEbLvtPYgWngsFk)\
@@ -33,7 +33,7 @@ o	[Deezer](https://www.deezer.com/en/track/934885562?utm_source=deezer&utm_conte
 o	[AppleMusic](https://music.apple.com/be/album/pankart-ep/1509177982?l=fr)\
 o	[Amazon](https://www.amazon.fr/PanKart-Pankart/dp/B08797KN6B/ref=sr_1_1?dchild=1&keywords=Pankart&qid=1587653912&s=dmusic&search-type=ss&sr=1-1)
 o	[Google Play](https://play.google.com/store/apps/theme/promotion_gpm_shutdown_ctp)\
-o	[SoundCloud](https://soundcloud.com/pankartband)\
+o	[SoundCloud](https://soundcloud.com/pankartband)
 
 ---
 
