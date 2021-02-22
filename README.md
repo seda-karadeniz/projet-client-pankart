@@ -12,7 +12,7 @@ pourquoi engagé? parce qu'ils dénoncent dans leurs chansons ce qui va et ne va
 Un premier EP sorti en avril 2020
 Un concours européen remporté en décembre 2020
 ---
-
+## Voir stratégie plus bas
 ## Où trouver Pankart ?
 
 • Site web\
@@ -75,23 +75,31 @@ o	[SoundCloud](https://soundcloud.com/pankartband)
 
 ## strategie
 ### Objectif 
-site web qui doit donner envie aux employeurs de me prendre dans leur équipe, ou meme si je me lance en tant qu'indépendante ce site doit donner envie de faire appel à mes compétences pour leurs projets.\
-Dans mon portfolio, on doit y retrouver : 
+site web qui doit faire connaitre pankart, voir l'agenda du groupe, connaitre les membres, permettre aux organisateurs etc de pouvoir les contacter.
+Dans le site, on doit y retrouver : 
 
-#### La page accueil 
-- barre de navigation avec toutes les pages,
-- mon nom, ce que je fais (web dev), petit texte descriptif
-- en dessous avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets
+* page home
+  * avoir le logo de pankart 
+  * navigation 
+  * biographie du groupe et des membres 
+  * liens vers les RS etc
+* page lyrics 
+  * les paroles de leurs chanson 
+* galerie
+  * images 
+  * videos
+* news 
+  * celles du groupe 
+  * coups de gueule
+  * coups de coeur
+* revue de presse
+* agenda concert etc
+* contact
+  * pouvoir les contacter, avoir le choix "pq" (msg de fan, organisateur, achat d'un article, payer pour une cause ...) selon la raison avoir une adresse mail differente
+    * un input de type text pour le nom 
+    * utilisé un select avec des option value pour les differents sujets, par exmple (organisation, achat, autres etc...) (pq les contacter?) et selon le choix de la personne dans la listes, une adresse mail sera afficher.
+     * textarea
+     * button de type submit
+* petit jeu 
 
-#### La page des projets 
-- avoir tous mes projets 
--- une images et une description pour chaque projet
-
-#### La page de contact 
-- formulaire de contact
-  - un input de type texte pour le nom
-  - un input de type email 
-  - un inpt de type texte où la personne mettrai le sujet 
-  - un textarea pour le message
-  - un btn de type submit
-
+Quand on rentre sur le site (deja pouvoir acceder au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
