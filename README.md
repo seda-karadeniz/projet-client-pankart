@@ -9,10 +9,10 @@
 # Pankart 
 ## Qui est Pankart ?
 
-Pankart est un groupe de musique belge de rock celtique engagé, composé de 6 membres.
-pourquoi engagé? parce qu'ils dénoncent dans leurs chansons ce qui va et ne va pas dans le monde./
-Un premier EP sorti en avril 2020
-Un concours européen remporté en décembre 2020
+>Pankart est un groupe de musique belge de rock celtique engagé, composé de 6 membres.
+>pourquoi engagé? parce qu'ils dénoncent dans leurs chansons ce qui va et ne va pas dans le monde.
+>Un premier EP sorti en avril 2020
+>Un concours européen remporté en décembre 2020
 ---
 
 
