@@ -4,6 +4,7 @@
 >project for web design course.
 
 >url for the deposit : https://github.com/hepl-dw/projet-pankart
+# voir stratégie plus bas
 
 # Pankart 
 ## Qui est Pankart ?
@@ -12,7 +13,7 @@ pourquoi engagé? parce qu'ils dénoncent dans leurs chansons ce qui va et ne va
 Un premier EP sorti en avril 2020
 Un concours européen remporté en décembre 2020
 ---
-## Voir stratégie plus bas
+
 ## Où trouver Pankart ?
 
 • Site web\
@@ -102,4 +103,4 @@ Dans le site, on doit y retrouver :
      * button de type submit
 * petit jeu 
 
-Quand on rentre sur le site (deja pouvoir acceder au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
+Quand on rentre sur le site (avoir accès au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
