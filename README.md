@@ -89,7 +89,7 @@ Dans le site, on doit y retrouver :
 * galerie
   * images 
   * videos
-* news 
+* news (le client aura la possibilité d'ajouter ou de retirer des news)
   * celles du groupe 
   * coups de gueule
   * coups de coeur
@@ -104,3 +104,5 @@ Dans le site, on doit y retrouver :
 * petit jeu 
 
 Quand on rentre sur le site (avoir accès au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
+site sera creer avec wordpress\
+le client aura la possibilité d'ajouter ou de retirer du contenu tel que les news, agenda, etc. 
