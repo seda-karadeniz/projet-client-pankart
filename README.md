@@ -4,7 +4,7 @@
 >project for web design course.
 
 >url for the deposit : https://github.com/hepl-dw/projet-pankart
-# voir stratégie plus bas
+# Voir stratégie plus bas
 
 # Pankart 
 ## Qui est Pankart ?
@@ -74,7 +74,7 @@ o	[SoundCloud](https://soundcloud.com/pankartband)
   Streaming
   Apps
 
-## strategie
+## Stratégie
 ### Objectif 
 site web qui doit faire connaitre pankart, voir l'agenda du groupe, connaitre les membres, permettre aux organisateurs etc de pouvoir les contacter.
 Dans le site, on doit y retrouver : 
@@ -83,26 +83,27 @@ Dans le site, on doit y retrouver :
   * avoir le logo de pankart 
   * navigation 
   * biographie du groupe et des membres 
+  * lien vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart!)
   * liens vers les RS etc
 * page lyrics 
   * les paroles de leurs chanson 
 * galerie
   * images 
   * videos
-* news (le client aura la possibilité d'ajouter ou de retirer des news)
+* news 
   * celles du groupe 
   * coups de gueule
   * coups de coeur
 * revue de presse
 * agenda concert etc
 * contact
-  * pouvoir les contacter, avoir le choix "pq" (msg de fan, organisateur, achat d'un article, payer pour une cause ...) selon la raison avoir une adresse mail differente
+  * pouvoir les contacter, avoir le choix "pourquoi" (message de fan, organisateur, achat d'un article, payer pour une cause ...) selon la raison avoir une adresse mail differente
     * un input de type text pour le nom 
-    * utilisé un select avec des option value pour les differents sujets, par exmple (organisation, achat, autres etc...) (pq les contacter?) et selon le choix de la personne dans la listes, une adresse mail sera afficher.
+    * utilisé un select avec des option value pour les differents sujets, par exemple (organisation, achat, autres etc...) (pq les contacter?) et selon le choix de la personne dans la listes, une adresse mail sera afficher.
      * textarea
      * button de type submit
-* petit jeu 
+
 
 Quand on rentre sur le site (avoir accès au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
-site sera creer avec wordpress\
+site sera créé avec wordpress\
 le client aura la possibilité d'ajouter ou de retirer du contenu tel que les news, agenda, etc. 
