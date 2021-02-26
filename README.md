@@ -8,6 +8,7 @@
 
 # Pankart 
 ## Qui est Pankart ?
+
 Pankart est un groupe de musique belge de rock celtique engagé, composé de 6 membres.
 pourquoi engagé? parce qu'ils dénoncent dans leurs chansons ce qui va et ne va pas dans le monde./
 Un premier EP sorti en avril 2020
@@ -59,8 +60,9 @@ Dans le site, on doit y retrouver :
 * page home
   * avoir le logo de pankart 
   * navigation 
-  * biographie du groupe et des membres 
-  * lien vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart!)
+  * biographie du groupe et des membres (faire connaitre le groupe ainsi que ses membres)
+  * CTA qui mene vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart! vu que c'est un groupe de musique l'une des pages les plus importante c'est l'agenda)
+  * section avec un CTA qui mene vers la page contact
   * liens vers les RS etc
 * page lyrics 
   * les paroles de leurs chanson 
@@ -73,6 +75,8 @@ Dans le site, on doit y retrouver :
   * coups de coeur
 * revue de presse
 * agenda concert etc
+    * liste des concert , événement à venir, date etc (une sorte de ligne du temps serai bien, verticalement et aux scrolls les événements s'ajouteraient)
+    * un CTA qui mene vers la page contact (une section dédié surtout aux organisateur etc, après avoir regarder l'agenda du groupe, ils voudrons peut-être les contacter)
 * contact
   * pouvoir les contacter, avoir le choix "pourquoi" (message de fan, organisateur, achat d'un article, payer pour une cause ...) selon la raison avoir une adresse mail differente
     * un input de type text pour le nom 
