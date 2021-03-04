@@ -60,13 +60,13 @@ Dans le site, on doit y retrouver :
 
 * page home
   * avoir le logo de pankart 
-  * navigation 
+  * barre de navigation, lien vers les autres page
   * biographie du groupe et des membres (faire connaitre le groupe ainsi que ses membres)
   * CTA qui mene vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart! vu que c'est un groupe de musique l'une des pages les plus importante c'est l'agenda)  avoir une couleur de fond différente pour mettre en valeur cette section et celle ci-dessous pour le contact
   * section avec un CTA qui mene vers la page contact
-  * liens vers les RS etc
+  * liens vers les réseaux sociaux etc
 * page lyrics 
-  * les paroles de leurs chanson 
+  * les paroles des chansons
 * galerie
   * images 
   * videos
