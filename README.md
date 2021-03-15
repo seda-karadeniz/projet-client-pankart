@@ -61,16 +61,25 @@ Dans le site, on doit y retrouver :
 * page home
   * avoir le logo de pankart 
   * barre de navigation, lien vers les autres page
-  * biographie du groupe et des membres (faire connaitre le groupe ainsi que ses membres)
-  * CTA qui mene vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart! vu que c'est un groupe de musique l'une des pages les plus importante c'est l'agenda)  avoir une couleur de fond différente pour mettre en valeur cette section et celle ci-dessous pour le contact
+  * petite description du groupe et un CTA qui mene vers la page membres
+  * avoir une petite video ytb de leur chanson
+  * avoir les 2-3 prochains évènements de pankart et un CTA qui mene vers la page agenda (page qui sera importante pour les organisateurs d'évenements et égalament pour les fans qui veulent voir Pankart! vu que c'est un groupe de musique l'une des pages les plus importante c'est l'agenda)  avoir une couleur de fond différente pour mettre en valeur cette section et celle ci-dessous pour le contact
   * section avec un CTA qui mene vers la page contact
   * liens vers les réseaux sociaux etc
+* page membres
+    * decription du goupe avoir une photo 
+    * description de chaque membres
 * page lyrics 
-  * les paroles des chansons
+  * icone pour lancer la musique ou l'arréter 
+  * titre de la chanson avec le nom de l'auteur (cliquable, qui mene vers la page membres)
+  * les paroles de la chanson
 * galerie
-  * images 
-  * videos
+  * les images et video serons séparer par évenement 
+    * champs de recherche qui permetrais de rechercher un évenement en particulier et de voir les img et videos de cet evement
+    * images 
+    * videos
 * news 
+  * avoir des filtres ( pour trier les news (les plus anciennes,...)
   * celles du groupe 
   * coups de gueule
   * coups de coeur
@@ -86,7 +95,7 @@ Dans le site, on doit y retrouver :
      * button de type submit
 
 
-Quand on rentre sur le site (avoir accès au site via n'importe quelle page), la chanson démmarre quand on rentre sur le site, possibilité de couper la chanson en cliquant sur une icone.\
+Quand on rentre sur le site (avoir accès au site via n'importe quelle page)\
 site sera créé avec wordpress\
 le client aura la possibilité d'ajouter ou de retirer du contenu tel que les news, agenda, etc. 
 
